@@ -542,19 +542,7 @@ src="https://streak-stats.demolab.com?user=manikandanar3646&theme=default&hide_b
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=minimal&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=manikandanar3646&theme=flat&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
