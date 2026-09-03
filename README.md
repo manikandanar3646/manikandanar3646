@@ -1,338 +1,199 @@
-<!-- ========================= -->
-<!--        HERO SECTION        -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=190&section=header&text=MANIKANDAN%20A&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20NLP%20Enthusiast&descSize=18&descAlignY=65&animation=fadeIn"/>
+# 👋 Hi, I'm Manikandan A
+
+### 💻 Full Stack Developer | 🤖 AI & NLP Enthusiast | 🚀 Software Developer
+
+<p>
+  Building practical applications with .NET, Java, React and exploring
+  AI, NLP and Large Language Models.
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;C%23+%7C+.NET+%7C+Java+%7C+React;AI+%7C+NLP+%7C+LLMs+Explorer+%F0%9F%A4%96;Building+Projects+%7C+Learning+%7C+Improving+%F0%9F%9A%80" />
-
-<br><br>
-
-<a href="https://manikandanar3646.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2575FC?style=for-the-badge"/>
-</a>
-
-<a href="mailto:manikandanar3646@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/manikandanar3646">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=manikandanar3646&label=Profile%20Views&color=2575FC&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=MANIKANDAN%20A&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn"/>
 
 </div>
 
+---
 
-<!-- ========================= -->
-<!--         ABOUT ME           -->
-<!-- ========================= -->
+## 🧑‍💻 About Me
 
-# 👋 Hi, I'm Manikandan
+I'm a Computer Science graduate and Full Stack Developer interested in
+building practical software applications and exploring AI-powered systems.
 
-I'm a **Computer Science graduate and Full Stack Developer** interested in building practical software applications and exploring AI-powered solutions.
+- 💻 Primary development focus: **C# and .NET**
+- 🌐 Full Stack development with **ASP.NET Core, React, JavaScript, HTML & CSS**
+- ☕ Backend development with **Java and Spring Boot**
+- 🗄️ Experience working with **SQL Server and relational databases**
+- 🤖 Exploring **Artificial Intelligence, NLP and LLM applications**
+- 🧠 Familiar with **DistilBERT, BERT and NLP concepts**
+- 🦙 Exploring LLMs such as **Llama**
+- 🔬 Interested in combining software engineering with AI
+- 🎨 I enjoy building applications, experimenting with ideas and learning
+  new technologies
 
-I enjoy working across the stack — from designing frontend interfaces to developing backend APIs and working with databases.
+> 🚀 I believe the best way to learn technology is to build something with it.
 
-### 💻 What I Work With
-
-- 🔹 **C# & .NET / ASP.NET Core**
-- 🔹 **Java & Spring Boot**
-- 🔹 **React & JavaScript**
-- 🔹 **HTML & CSS**
-- 🔹 **SQL Server & MySQL**
-- 🔹 **AI, NLP & LLM applications**
-- 🔹 **DistilBERT & text-processing projects**
-- 🔹 **Ollama and locally running LLMs**
-
-### 🤖 AI Interests
-
-I'm particularly interested in:
-
-- Natural Language Processing
-- Transformer-based models
-- DistilBERT
-- Large Language Models
-- AI-powered applications
-- AI-assisted software development
-- Intelligent career and content-generation systems
-
-> 🚀 My goal is to combine **software engineering + AI** to build useful real-world applications.
-
-
-<!-- ========================= -->
-<!--       TECH STACK           -->
-<!-- ========================= -->
+---
 
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,html,css,python&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cs,java,js,html,css,python" />
 
-</div>
+</p>
 
-<br>
-
-## ⚙️ Frameworks & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,spring,react&perline=6"/>
-
-</div>
-
-<br>
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mssql&perline=6"/>
-
-</div>
-
-<br>
-
-## 🤖 AI / NLP
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DistilBERT-Transformer-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Intermediate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-Exploring-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-LLM-black?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-## 🔧 Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=6"/>
-
-</div>
-
-
-<!-- ========================= -->
-<!--       PROJECTS             -->
-<!-- ========================= -->
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Job Search Assistant
-
-An AI-powered career assistant concept designed to help users discover relevant jobs, analyze job descriptions and improve their job-search workflow.
-
-**Focus**
-
-- AI-assisted job discovery
-- Job description analysis
-- Resume analysis
-- Suitability evaluation
-- Career assistance
-
-**Technologies**
-
-`AI` `LLM` `C#` `.NET` `SQL`
-
-</td>
-
-<td width="50%">
-
-## ✍️ AI Novel Generation System
-
-A desktop application for AI-assisted story and novel generation.
-
-The application explores how LLMs can assist writers with developing stories and creative content.
-
-**Technologies**
-
-`C#` `.NET` `WPF` `XAML` `Ollama` `LLM`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🛒 Mini E-Commerce Application
-
-A full-stack e-commerce application developed with a React frontend and Spring Boot backend.
-
-**Technologies**
-
-`Java` `Spring Boot` `React` `JavaScript` `SQL`
-
-</td>
-
-<td width="50%">
-
-## 🏨 Hotel Management System
-
-A full-stack hotel management application for managing hotel-related operations and data.
-
-**Technologies**
-
-`C#` `.NET` `HTML` `CSS` `JavaScript` `SQL Server`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🏥 Healthcare Management Application
-
-Worked as part of a development team on a healthcare management application during my internship experience.
-
-Contributed to frontend interfaces, backend APIs and database operations.
-
-**Technologies**
-
-`C#` `ASP.NET Core` `SQL Server`
-
-</td>
-
-<td width="50%">
-
-## 📝 Quote of the Day
-
-A simple quote application developed using .NET MAUI.
-
-**Technologies**
-
-`.NET MAUI` `C#` `XAML`
-
-</td>
-
-</tr>
-
-</table>
-
-
-<!-- ========================= -->
-<!--       OTHER PROJECTS       -->
-<!-- ========================= -->
-
-# 📂 Other Projects
-
-<div align="center">
-
-| Project | Technology |
+| Technology | Level / Experience |
 |---|---|
-| 🏛️ Wedding Hall Management System | C# / .NET |
-| 📋 Task Manager | C# / .NET |
-| 📝 Quote of the Day | .NET MAUI |
-| 🛒 Mini E-Commerce | Java / Spring Boot / React |
-| 🏨 Hotel Management System | C# / ASP.NET / SQL Server |
-| 🤖 AI Novel Generation | C# / WPF / Ollama |
-| 🔎 Anonymous Case Complaint System | DistilBERT / NLP |
+| **C#** | Primary programming language |
+| **Java** | Backend development & application development |
+| **JavaScript** | Frontend development |
+| **HTML** | Web development |
+| **CSS** | Web styling & responsive interfaces |
+| **Python** | Basic knowledge |
 
-</div>
+---
 
+# ⚙️ Frameworks & Development
 
-<!-- ========================= -->
-<!--       GITHUB STATS         -->
-<!-- ========================= -->
+<p align="center">
 
-# 📊 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=dotnet,spring,react" />
 
-<div align="center">
+</p>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=manikandanar3646&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+### .NET Ecosystem
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar3646&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+- C#
+- .NET
+- ASP.NET Core
+- ASP.NET Core Web API
+- Entity Framework Core
+- Windows Forms
+- WPF
+- .NET MAUI
+- XAML
 
-</div>
+### Java Ecosystem
 
+- Java
+- Spring Boot
+- Spring Web
+- Hibernate
 
-<!-- ========================= -->
-<!--        STREAK              -->
-<!-- ========================= -->
+### Frontend
 
-# 🔥 GitHub Streak
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- XAML
 
-<div align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=manikandanar3646&theme=tokyonight&hide_border=true"/>
+# 🗄️ Databases
 
-</div>
+### SQL Server
 
+- Microsoft SQL Server
+- SQL queries
+- Database design
+- CRUD operations
+- Entity Framework Core
+- LocalDB
 
-<!-- ========================= -->
-<!--     CONTRIBUTION GRAPH    -->
-<!-- ========================= -->
+### MySQL
 
-# 📈 Contribution Activity
+- Basic database knowledge
+- SQL queries
+- CRUD operations
+- Relational database concepts
 
-<div align="center">
+### LiteDB
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=tokyo-night&hide_border=true&area=true&custom_title=Manikandan's%20Contribution%20Activity"/>
+- Used for local data storage in an application project
 
-</div>
+---
 
+# 🤖 AI, NLP & LLM
 
-<!-- ========================= -->
-<!--       TROPHIES             -->
-<!-- ========================= -->
+I'm particularly interested in combining **software development with AI**.
 
-# 🏆 GitHub Trophies
+### 🧠 NLP
 
-<div align="center">
+- Natural Language Processing
+- Text preprocessing concepts
+- Text classification concepts
+- Transformer-based NLP
+- BERT
+- DistilBERT
+- spaCy
 
-<img src="https://github-profile-trophy.vercel.app/?username=manikandanar3646&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"/>
+### 🤖 Large Language Models
 
-</div>
+Familiar with and exploring:
 
+- Llama
+- Llama 3.1
+- Llama 3.2
+- Ollama
+- OpenAI models / APIs
+- LLM application concepts
+- Prompt-based AI applications
 
-<!-- ========================= -->
-<!--      CURRENT FOCUS         -->
-<!-- ========================= -->
+### 🔗 AI Frameworks / Libraries
 
-# 🎯 Currently Learning & Improving
+- LangChain
+- Transformers
+- DistilBERT
+- BERT
+- spaCy
 
-<div align="center">
+> My AI knowledge is currently focused on learning, experimentation and
+> application development rather than claiming professional ML engineering
+> experience.
+
+---
+
+# 🔧 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</p>
+
+### Tools I Work With
+
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- .NET CLI
+- GitHub repositories
+- SQL Server tools
+
+---
+
+# 🚀 Projects
+
+## 🤖 AI Novel Generation System
+
+An AI-assisted desktop application designed to help generate and develop
+stories and novels using Large Language Models.
+
+### Technologies
 
 ```text
-                    SOFTWARE DEVELOPMENT
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-          BACKEND                       FRONTEND
-             │                             │
-        C# / .NET                      React
-        ASP.NET Core                   JavaScript
-        Spring Boot                    HTML / CSS
-             │
-             │
-        ┌────┴────┐
-        │         │
-     DATABASE     AI
-        │         │
-   SQL Server    NLP
-   MySQL         DistilBERT
-                 LLMs
-                 Ollama
+C#
+.NET
+WPF
+XAML
+Ollama
+Llama
+LLM
+LiteDB
