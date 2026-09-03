@@ -518,15 +518,12 @@ Tools and applications around
 <div align="center">
 
 <img height="180"
-src="./profile/github-stats.svg"
-alt="GitHub Statistics"/>
+src="https://github-readme-stats.vercel.app/api?username=manikandanar3646&show_icons=true&theme=default&hide_border=true"/>
 
 <img height="180"
-src="./profile/top-langs.svg"
-alt="Top Languages"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar3646&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
@@ -558,7 +555,6 @@ alt="GitHub Contribution Activity"/>
 <div align="center">
 
 <picture>
-
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake-dark.svg">
@@ -568,9 +564,8 @@ alt="GitHub Contribution Activity"/>
     srcset="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake.svg">
 
   <img
-    src="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake">
-
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
