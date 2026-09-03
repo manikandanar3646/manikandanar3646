@@ -274,9 +274,12 @@ A desktop-based management application designed to manage wedding hall-related o
 
 <td width="50%">
 
+<td width="50%">
+
 ## 🧠 Anonymous Case Complaint System
 
-An application exploring Natural Language Processing and transformer-based text classification for anonymous case/complaint processing.
+A collaborative college project exploring Natural Language Processing and
+transformer-based text classification for anonymous case and complaint processing.
 
 **Tech Stack**
 
@@ -284,13 +287,37 @@ An application exploring Natural Language Processing and transformer-based text 
 
 **Highlights**
 
+- Collaborative college project
 - Natural Language Processing
 - DistilBERT-based text classification
 - Transformer-based NLP concepts
-- Backend/application development
+- Text preprocessing and classification
 - Database integration
-- Text-processing workflow
+- Application development
 
+</td>
+
+<td width="50%">
+
+## 💬 Mini Social Media Web Application
+
+A lightweight social media web application developed to explore user
+interaction, posts and basic social networking functionality.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `C#` `.NET` `SQL Server`
+
+**Highlights**
+
+- User-focused web application
+- Post creation and management
+- CRUD operations
+- Frontend and backend integration
+- Database integration
+- Practical web application development
+
+</td>
 </td>
 
 <td width="50%">
