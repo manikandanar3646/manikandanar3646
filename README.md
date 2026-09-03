@@ -517,11 +517,8 @@ Tools and applications around
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=manikandanar3646&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar3646&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+<img height="180" src="./profile/stats.svg"/>
+<img height="180" src="./profile/top-langs.svg"/>
 
 </div>
 ---
@@ -533,18 +530,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar
 <img
 src="https://streak-stats.demolab.com?user=manikandanar3646&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/activity-graph.svg"
-alt="GitHub Contribution Activity"/>
 
 </div>
 
