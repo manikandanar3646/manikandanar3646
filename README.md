@@ -518,10 +518,10 @@ Tools and applications around
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=manikandanar3646&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=manikandanar3646&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar3646&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar3646&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -532,7 +532,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=manikandanar3646&theme=default&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=manikandanar3646&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </div>
 
@@ -542,7 +543,9 @@ src="https://streak-stats.demolab.com?user=manikandanar3646&theme=default&hide_b
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=github-compact&hide_border=true&area=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=github-compact&hide_border=true&area=true"
+alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -552,11 +555,20 @@ src="https://streak-stats.demolab.com?user=manikandanar3646&theme=default&hide_b
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/manikandanar3646/manikandanar3646/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"/>
+</picture>
 
 </div>
----
 
 # 🚀 Future Goals
 
