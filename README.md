@@ -392,8 +392,6 @@ processing.
 
 ---
 
----
-
 # 🌐 Full Stack Development
 
 My main full-stack development combinations are:
