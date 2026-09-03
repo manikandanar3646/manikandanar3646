@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=MANIKANDAN%20A&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=MANIKANDAN%20AR&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn"/>
 
 </div>
 
