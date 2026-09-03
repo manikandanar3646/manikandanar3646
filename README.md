@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Manikandan A
 
-### 💻 Full Stack Developer | 🤖 AI & NLP Enthusiast | 🚀 Software Developer
+### 💻 Full Stack Developer | 🤖 AI & NLP Enthusiast
 
-Building practical applications with **.NET, Java, React** and exploring
+Building practical applications with **C#, .NET, Java, React** and exploring
 **AI, NLP and Large Language Models**.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=MANIKANDAN%20A&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20NLP%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=170&section=header&text=MANIKANDAN%20A&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20NLP%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn"/>
 
 </div>
 
@@ -17,39 +17,32 @@ Building practical applications with **.NET, Java, React** and exploring
 
 # 🧑‍💻 About Me
 
-I'm a Computer Science graduate and Full Stack Developer interested in
-building practical software applications and exploring AI-powered systems.
+I'm a Computer Science graduate and Full Stack Developer who enjoys building
+practical applications and exploring AI-powered solutions.
 
-- 💻 Primary development focus: **C# and .NET**
+- 💻 Primary focus: **C# and .NET**
 - 🌐 Full Stack development with **ASP.NET Core, React, JavaScript, HTML & CSS**
 - ☕ Backend development with **Java and Spring Boot**
-- 🗄️ Experience working with **SQL Server and relational databases**
-- 🤖 Interested in **Artificial Intelligence, NLP and Large Language Models**
-- 🧠 Familiar with **BERT, DistilBERT and NLP concepts**
-- 🦙 Exploring LLMs such as **Llama**
-- 🔬 Interested in combining software engineering with AI
-- ✍️ Interested in creative technology, storytelling and writing
-- 🚀 I enjoy building projects and learning through practical development
+- 🗄️ Database experience with **SQL Server and MySQL**
+- 🤖 Interested in **AI, NLP and Large Language Models**
+- 🧠 Knowledge of **BERT, DistilBERT and transformer-based NLP**
+- 🦙 Exploring **Llama and local LLM applications**
+- ✍️ Interested in **creative technology, storytelling and writing**
+- 🚀 I learn by building projects and experimenting with new technologies
 
-> 🚀 I believe the best way to learn technology is to build something with it.
+> 💡 Build. Learn. Experiment. Improve.
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+## 💻 Languages
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,python" />
 
 </p>
-
-- **C#** — Primary programming language
-- **Java** — Application and backend development
-- **JavaScript** — Web development
-- **HTML & CSS** — Frontend development
-- **Python** — Basic knowledge
 
 ---
 
@@ -63,93 +56,68 @@ building practical software applications and exploring AI-powered systems.
 
 </p>
 
-- .NET
-- ASP.NET Core
-- ASP.NET Core Web API
-- Entity Framework Core
-- Windows Forms
-- WPF
-- .NET MAUI
-- XAML
+`ASP.NET Core` `ASP.NET Core Web API` `Entity Framework Core`  
+`Windows Forms` `WPF` `.NET MAUI` `XAML`
 
 ### 🟢 Java
 
-- Java
-- Spring Boot
-- Spring Web
-- Hibernate
+`Spring Boot` `Spring Web` `Hibernate`
 
 ### ⚛️ Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- XAML
+`HTML5` `CSS3` `JavaScript` `React.js` `XAML`
 
 ---
 
-## 🗄️ Databases
+# 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
 
 ### Microsoft SQL Server
 
-- SQL Server
-- SQL queries
-- CRUD operations
-- Relational database concepts
-- Entity Framework Core
-- LocalDB
+`SQL Server` `LocalDB` `SQL Queries` `CRUD` `Entity Framework Core`
 
 ### MySQL
 
-- Basic database knowledge
-- SQL queries
-- CRUD operations
-- Relational database concepts
+`SQL Queries` `CRUD` `Relational Database Concepts`
 
 ### LiteDB
 
-- Embedded/local database
-- Used for local data storage in an application project
+`Embedded Database` `Local Data Storage`
 
 ---
 
 # 🤖 AI, NLP & LLM
 
-One of my main interests is combining **software development with Artificial Intelligence**.
+My main AI interest is combining **software development with AI**.
 
-## 🧠 Natural Language Processing
+### 🧠 NLP
 
-- Natural Language Processing
-- Text preprocessing concepts
-- Text classification concepts
+`NLP` `BERT` `DistilBERT` `Transformers` `spaCy`
+
+- Text preprocessing
+- Text classification
 - Transformer-based NLP
-- BERT
-- DistilBERT
-- spaCy
+- NLP application development
 
-## 🤖 Large Language Models
+### 🤖 Large Language Models
 
-Exploring and working with concepts around:
+`Llama` `Llama 3.1` `Llama 3.2` `Ollama`
 
-- Large Language Models
-- Llama
-- Llama 3.1
-- Llama 3.2
-- Ollama
-- OpenAI models / APIs
-- LLM application development
-- Prompt-based AI applications
+- LLM application concepts
+- Prompt-based applications
+- Local LLM experimentation
+- AI-assisted application development
 
-## 🔗 AI Libraries & Frameworks
+### 🔗 AI Tools & Frameworks
 
-- Transformers
-- LangChain
-- spaCy
-- BERT
-- DistilBERT
+`LangChain` `Transformers` `spaCy` `Ollama`
 
-> 🧠 My current AI focus is learning, experimentation and building
+> 🧠 Currently focused on learning, experimentation and building practical
 > AI-powered applications.
 
 ---
@@ -162,12 +130,7 @@ Exploring and working with concepts around:
 
 </p>
 
-- Visual Studio
-- Visual Studio Code
-- Git
-- GitHub
-- .NET CLI
-- SQL Server tools
+`Visual Studio` `VS Code` `Git` `GitHub` `.NET CLI` `SQL Server Tools`
 
 ---
 
@@ -180,22 +143,22 @@ Exploring and working with concepts around:
 
 ## 🤖 AI Novel Generation System
 
-An AI-assisted desktop application designed to help writers develop
-stories and novels using Large Language Models.
+An AI-assisted desktop application designed to help writers develop stories
+and novels using Large Language Models.
 
-### Tech Stack
+**Tech Stack**
 
-`C#` `.NET` `WPF` `XAML` `Ollama` `Llama` `LLM` `LiteDB`
+`C#` `.NET` `WPF` `XAML` `Ollama` `Llama` `LiteDB`
 
-### Highlights
+**Highlights**
 
 - AI-assisted story and novel generation
 - Local LLM integration using Ollama
 - Llama-based text generation
 - WPF desktop application
-- XAML-based user interface
-- Local data storage using LiteDB
-- Designed around creative writing workflows
+- XAML-based interface
+- Local data storage
+- Creative writing workflow
 
 </td>
 
@@ -203,21 +166,21 @@ stories and novels using Large Language Models.
 
 ## 🛒 Mini E-Commerce Website
 
-A full-stack e-commerce application built with a React frontend
-and Java Spring Boot backend.
+A full-stack e-commerce application with a React frontend and
+Java Spring Boot backend.
 
-### Tech Stack
+**Tech Stack**
 
 `Java` `Spring Boot` `Hibernate` `React` `JavaScript` `HTML` `CSS` `SQL`
 
-### Highlights
+**Highlights**
 
-- React-based frontend
+- React frontend
 - Spring Boot REST backend
 - Hibernate integration
 - Database operations
 - CRUD functionality
-- Full-stack application architecture
+- Full-stack architecture
 
 </td>
 
@@ -229,21 +192,21 @@ and Java Spring Boot backend.
 
 ## 🏨 Hotel Management System
 
-A full-stack hotel management application developed to manage
-hotel-related operations and database information.
+A full-stack hotel management application for managing
+hotel-related operations.
 
-### Tech Stack
+**Tech Stack**
 
 `C#` `.NET` `HTML` `CSS` `JavaScript` `SQL Server`
 
-### Highlights
+**Highlights**
 
-- Full-stack application development
-- Frontend interface development
-- Backend API development
-- SQL Server database integration
+- Full-stack development
+- Frontend interface
+- Backend APIs
+- SQL Server integration
 - CRUD operations
-- Practical business application workflow
+- Business application workflow
 
 </td>
 
@@ -251,20 +214,19 @@ hotel-related operations and database information.
 
 ## 🏛️ Wedding Hall Management System
 
-A desktop-based management application designed to manage
-wedding hall-related operations.
+A desktop application designed to manage wedding hall-related operations.
 
-### Tech Stack
+**Tech Stack**
 
 `C#` `.NET` `Windows Forms` `WPF` `SQL Server`
 
-### Highlights
+**Highlights**
 
 - Desktop application development
 - User interface development
 - Database integration
 - CRUD operations
-- Management-oriented application design
+- Management workflow
 
 </td>
 
@@ -276,22 +238,20 @@ wedding hall-related operations.
 
 ## 🧠 Anonymous Case Complaint System
 
-An application exploring Natural Language Processing and
-transformer-based text classification for anonymous case
-and complaint processing.
+An application exploring NLP and transformer-based text classification
+for anonymous case and complaint processing.
 
-### Tech Stack
+**Tech Stack**
 
 `C#` `.NET` `DistilBERT` `BERT` `NLP` `SQL`
 
-### Highlights
+**Highlights**
 
-- Natural Language Processing
-- DistilBERT-based text classification
-- Transformer-based NLP concepts
-- Backend/application development
+- NLP-based text processing
+- DistilBERT classification
+- Transformer-based approach
+- Backend development
 - Database integration
-- Text-processing workflow
 
 </td>
 
@@ -299,19 +259,19 @@ and complaint processing.
 
 ## 📱 Quote of the Day
 
-A lightweight application developed using .NET MAUI for
-displaying and managing daily quotes.
+A lightweight application developed using .NET MAUI for displaying
+and managing daily quotes.
 
-### Tech Stack
+**Tech Stack**
 
 `C#` `.NET MAUI` `XAML`
 
-### Highlights
+**Highlights**
 
-- .NET MAUI application development
+- .NET MAUI development
 - XAML interface
 - C# application logic
-- Simple and responsive user interface
+- Simple responsive UI
 
 </td>
 
@@ -323,20 +283,18 @@ displaying and managing daily quotes.
 
 ## 📋 To-Do List Application
 
-A simple task-management application for creating, updating
-and managing daily tasks.
+A simple task-management application for creating and managing daily tasks.
 
-### Tech Stack
+**Tech Stack**
 
 `C#` `.NET` `SQL`
 
-### Highlights
+**Highlights**
 
-- Task creation and management
+- Task management
 - CRUD operations
 - Database integration
 - Application logic
-- Simple management interface
 
 </td>
 
@@ -344,20 +302,19 @@ and managing daily tasks.
 
 ## 🌐 Personal Developer Portfolio
 
-A personal portfolio website showcasing my development skills,
-projects and technical interests.
+A personal portfolio website showcasing my skills, projects and
+technical interests.
 
-### Tech Stack
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
-### Highlights
+**Highlights**
 
-- Personal developer branding
+- Developer portfolio
 - Project showcase
-- Responsive web interface
-- Technical skills presentation
-- Contact information
+- Responsive interface
+- Technical presentation
 
 </td>
 
@@ -369,64 +326,76 @@ projects and technical interests.
 
 # 🌐 Full Stack Development
 
-My main full-stack development combinations are:
+My main full-stack combinations are:
 
 ### 🟣 .NET Stack
 
 ```text
-React / HTML / CSS / JavaScript
-              ↓
-        ASP.NET Core
-              ↓
-    Entity Framework Core
-              ↓
-        SQL Server
+┌─────────────────────────────┐
+│ React / HTML / CSS / JS     │
+└──────────────┬──────────────┘
+               ↓
+┌─────────────────────────────┐
+│       ASP.NET Core          │
+└──────────────┬──────────────┘
+               ↓
+┌─────────────────────────────┐
+│   Entity Framework Core     │
+└──────────────┬──────────────┘
+               ↓
+┌─────────────────────────────┐
+│        SQL Server           │
+└─────────────────────────────┘
 ```
 
 ### 🟢 Java Stack
 
 ```text
-React / HTML / CSS / JavaScript
-              ↓
-        Spring Boot
-              ↓
-          Hibernate
-              ↓
-       SQL / Database
+┌─────────────────────────────┐
+│ React / HTML / CSS / JS     │
+└──────────────┬──────────────┘
+               ↓
+┌─────────────────────────────┐
+│        Spring Boot          │
+└──────────────┬──────────────┘
+               ↓
+┌─────────────────────────────┐
+│         Hibernate           │
+└──────────────┬──────────────┘
+               ↓
+┌─────────────────────────────┐
+│       SQL / Database        │
+└─────────────────────────────┘
 ```
 
 ---
 
 # 🧠 AI + Software Development
 
-One of my main interests is combining software engineering with
-Artificial Intelligence, Natural Language Processing and
-Large Language Models.
-
 ```text
-                SOFTWARE DEVELOPMENT
-                         │
-             ┌───────────┴───────────┐
-             │                       │
-          C# / .NET             Java / Spring
-             │                       │
-       ASP.NET Core             Spring Boot
-             │                       │
-             └───────────┬───────────┘
-                         │
-                    Full Stack
-                         │
-                  React / Web
-                         │
-             ┌───────────┴───────────┐
-             │                       │
-            NLP                     LLM
-             │                       │
-         DistilBERT                 Llama
-             │                       │
-             └───────────┬───────────┘
-                         │
-                  AI Applications
+                    SOFTWARE DEVELOPMENT
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+          C# / .NET                    Java / Spring
+              │                             │
+        ASP.NET Core                    Spring Boot
+              │                             │
+              └──────────────┬──────────────┘
+                             │
+                        FULL STACK
+                             │
+                       React / Web
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+             NLP                           LLM
+              │                             │
+         DistilBERT                       Llama
+              │                             │
+              └──────────────┬──────────────┘
+                             │
+                      AI APPLICATIONS
 ```
 
 ---
@@ -456,23 +425,24 @@ I'm continuously improving my knowledge in:
 
 ```text
 ┌─────────────────────────────────────────────┐
-│            FULL STACK DEVELOPMENT           │
 │                                             │
-│       C# / .NET       Java / Spring        │
-│            │                │               │
-│            └───────┬────────┘               │
+│           FULL STACK DEVELOPMENT            │
+│                                             │
+│       C# / .NET      Java / Spring         │
+│            │               │                │
+│            └───────┬───────┘                │
 │                    │                        │
 │                 Backend                     │
 │                    │                        │
-│              React / Web                    │
+│                React / Web                  │
 │                    │                        │
-│                Databases                    │
+│                 Databases                   │
 │                    │                        │
 │                    +                        │
 │                                             │
 │              AI / NLP / LLM                 │
 │                                             │
-│        DistilBERT • Llama • Ollama         │
+│       DistilBERT • Llama • Ollama           │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -498,9 +468,9 @@ Full-stack applications using
 
 ## 🤖 AI Applications
 
-Applications combining software
+Software applications enhanced with
 
-development with **NLP and LLMs**
+**NLP • LLMs • AI**
 
 </td>
 
@@ -508,9 +478,9 @@ development with **NLP and LLMs**
 
 ## ✍️ Creative Technology
 
-Tools and applications around
+Applications around
 
-**stories, writing and creative ideas**
+**stories • writing • creative ideas**
 
 </td>
 
@@ -527,21 +497,20 @@ An AI-powered career assistant concept focused on helping developers
 discover relevant job opportunities, analyze job descriptions,
 evaluate job suitability and assist with career-related workflows.
 
-### Planned Technologies
+**Planned Technologies**
 
 `C#` `.NET` `AI` `LLM` `NLP` `React` `SQL`
 
-> 🚧 Currently a project concept under development.
+> 🚧 Project currently under development.
 
 ---
 
 ## 🎬 Creative Media Platform
 
 A future concept focused on helping creators develop and showcase
-creative work such as stories, characters, comics, portfolios and
-other media-related content.
+stories, characters, comics, portfolios and other creative work.
 
-> 💡 Concept currently being explored and developed.
+> 💡 Concept currently being explored.
 
 ---
 
@@ -550,10 +519,10 @@ other media-related content.
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -564,7 +533,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true"/>
 
 </div>
 
@@ -575,7 +544,7 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_b
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&area=true"/>
 
 </div>
 
@@ -586,7 +555,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -623,10 +592,10 @@ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github
 <div align="center">
 
 <a href="https://manikandanar3646.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2575FC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0072FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/manikandan-ar-038843264/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -644,7 +613,6 @@ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer"/>
 
 </div>
