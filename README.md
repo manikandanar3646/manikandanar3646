@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Manikandan A
+# 👋 Hi, I'm Manikandan AR
 
 ### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
 
