@@ -181,19 +181,207 @@ Familiar with and exploring:
 
 # 🚀 Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🤖 AI Novel Generation System
 
-An AI-assisted desktop application designed to help generate and develop
-stories and novels using Large Language Models.
+An AI-assisted desktop application designed to help writers develop stories and novels using Large Language Models.
 
-### Technologies
+**Tech Stack**
 
-```text
-C#
-.NET
-WPF
-XAML
-Ollama
-Llama
-LLM
-LiteDB
+`C#` ` .NET` `WPF` `XAML` `Ollama` `Llama` `LLM` `LiteDB`
+
+**Highlights**
+
+- AI-assisted story and novel generation
+- Local LLM integration using Ollama
+- Llama-based text generation
+- WPF desktop application
+- XAML-based user interface
+- Local data storage using LiteDB
+- Designed around creative writing workflows
+
+</td>
+
+<td width="50%">
+
+## 🛒 Mini E-Commerce Website
+
+A full-stack e-commerce application built with a React frontend and Java Spring Boot backend.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Hibernate` `React` `JavaScript` `HTML` `CSS` `SQL`
+
+**Highlights**
+
+- React-based frontend
+- Spring Boot REST backend
+- Hibernate integration
+- Database operations
+- CRUD functionality
+- Full-stack application architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏨 Hotel Management System
+
+A full-stack hotel management application developed to manage hotel-related operations and database information.
+
+**Tech Stack**
+
+`C#` `.NET` `HTML` `CSS` `JavaScript` `SQL Server`
+
+**Highlights**
+
+- Full-stack application development
+- Frontend interface development
+- Backend API development
+- SQL Server database integration
+- CRUD operations
+- Practical business application workflow
+
+</td>
+
+<td width="50%">
+
+## 🏛️ Wedding Hall Management System
+
+A desktop-based management application designed to manage wedding hall-related operations.
+
+**Tech Stack**
+
+`C#` `.NET` `Windows Forms` `WPF` `SQL Server`
+
+**Highlights**
+
+- Desktop application development
+- User interface development
+- Database integration
+- CRUD operations
+- Management-oriented application design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 Anonymous Case Complaint System
+
+An application exploring Natural Language Processing and transformer-based text classification for anonymous case/complaint processing.
+
+**Tech Stack**
+
+`C#` `.NET` `DistilBERT` `BERT` `NLP` `SQL`
+
+**Highlights**
+
+- Natural Language Processing
+- DistilBERT-based text classification
+- Transformer-based NLP concepts
+- Backend/application development
+- Database integration
+- Text-processing workflow
+
+</td>
+
+<td width="50%">
+
+## 📱 Quote of the Day
+
+A lightweight mobile/desktop application developed for displaying and managing daily quotes.
+
+**Tech Stack**
+
+`C#` `.NET MAUI` `XAML`
+
+**Highlights**
+
+- .NET MAUI application development
+- XAML interface
+- C# application logic
+- Simple and responsive user interface
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📋 To-Do List Application
+
+A simple task-management application for creating, updating and managing daily tasks.
+
+**Tech Stack**
+
+`C#` `.NET` `SQL`
+
+**Highlights**
+
+- Task creation and management
+- CRUD operations
+- Database integration
+- Backend/application logic
+- Simple management interface
+
+</td>
+
+<td width="50%">
+
+## 🌐 Personal Developer Portfolio
+
+A personal portfolio website showcasing my development skills, projects and technical interests.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+**Highlights**
+
+- Personal developer branding
+- Project showcase
+- Responsive web interface
+- Technical skills presentation
+- Portfolio and contact information
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🔮 Future Projects & Ideas
+
+### 🤖 AI Career Assistant
+
+An AI-powered career assistant concept focused on helping developers discover relevant job opportunities, analyze job descriptions, evaluate job suitability and assist with career-related workflows.
+
+**Planned Technologies**
+
+`C#` `.NET` `AI` `LLM` `NLP` `React` `SQL`
+
+> 🚧 Currently an idea / project under development, not yet presented as a completed application.
+
+---
+
+### 🎬 Creative Media Platform
+
+A future concept focused on helping creators develop and showcase creative work such as stories, characters, comics, portfolios and other media-related content.
+
+> 💡 Concept currently being explored and developed.
