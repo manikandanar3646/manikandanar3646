@@ -580,7 +580,7 @@ alt="GitHub Streak"/>
 <img src="https://img.shields.io/badge/Portfolio-Visit-2575FC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/manikandan-ar-038843264/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
