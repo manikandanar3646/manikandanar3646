@@ -1,82 +1,133 @@
+<!-- ========================= -->
+<!--        HERO SECTION        -->
+<!-- ========================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Manikandan AR
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=190&section=header&text=MANIKANDAN%20A&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20NLP%20Enthusiast&descSize=18&descAlignY=65&animation=fadeIn"/>
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
+<br>
 
-<p>
-  Building web applications, backend systems and exploring AI-powered solutions.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;C%23+%7C+.NET+%7C+Java+%7C+React;AI+%7C+NLP+%7C+LLMs+Explorer+%F0%9F%A4%96;Building+Projects+%7C+Learning+%7C+Improving+%F0%9F%9A%80" />
 
-<p>
-  <a href="https://manikandanar3646.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:manikandanar3646@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=header"/>
+<a href="https://manikandanar3646.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2575FC?style=for-the-badge"/>
+</a>
+
+<a href="mailto:manikandanar3646@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/manikandanar3646">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=manikandanar3646&label=Profile%20Views&color=2575FC&style=for-the-badge"/>
 
 </div>
 
----
 
-## 🧑‍💻 About Me
+<!-- ========================= -->
+<!--         ABOUT ME           -->
+<!-- ========================= -->
 
-I'm a **Computer Science graduate and Full Stack Developer** passionate about building practical software solutions.
+# 👋 Hi, I'm Manikandan
 
-- 💻 Strong interest in **C# / .NET and Java / Spring Boot**
-- 🌐 Building applications with **React, JavaScript, HTML & CSS**
-- 🗄️ Working with **SQL Server and databases**
-- 🤖 Exploring **AI, NLP, LLMs and intelligent applications**
-- 🔧 Interested in backend architecture and API development
-- 🚀 Building projects to solve real-world problems
-- 📚 Continuously learning new technologies
+I'm a **Computer Science graduate and Full Stack Developer** interested in building practical software applications and exploring AI-powered solutions.
 
-> **My goal:** Build useful software while continuously improving as a developer.
+I enjoy working across the stack — from designing frontend interfaces to developing backend APIs and working with databases.
 
----
+### 💻 What I Work With
+
+- 🔹 **C# & .NET / ASP.NET Core**
+- 🔹 **Java & Spring Boot**
+- 🔹 **React & JavaScript**
+- 🔹 **HTML & CSS**
+- 🔹 **SQL Server & MySQL**
+- 🔹 **AI, NLP & LLM applications**
+- 🔹 **DistilBERT & text-processing projects**
+- 🔹 **Ollama and locally running LLMs**
+
+### 🤖 AI Interests
+
+I'm particularly interested in:
+
+- Natural Language Processing
+- Transformer-based models
+- DistilBERT
+- Large Language Models
+- AI-powered applications
+- AI-assisted software development
+- Intelligent career and content-generation systems
+
+> 🚀 My goal is to combine **software engineering + AI** to build useful real-world applications.
+
+
+<!-- ========================= -->
+<!--       TECH STACK           -->
+<!-- ========================= -->
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,html,css,python" />
+<img src="https://skillicons.dev/icons?i=cs,java,js,html,css,python&perline=6"/>
 
-</p>
+</div>
 
-### ⚙️ Frameworks & Technologies
+<br>
 
-<p align="center">
+## ⚙️ Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs,hibernate" />
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,react&perline=6"/>
 
-### 🗄️ Database & Tools
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,postman,vscode,visualstudio" />
+## 🗄️ Databases
 
-</p>
+<div align="center">
 
-### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=mysql,mssql&perline=6"/>
 
-<p align="center">
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<br>
 
-</p>
+## 🤖 AI / NLP
 
----
+<div align="center">
+
+<img src="https://img.shields.io/badge/DistilBERT-Transformer-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Intermediate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Exploring-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-LLM-black?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+## 🔧 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=6"/>
+
+</div>
+
+
+<!-- ========================= -->
+<!--       PROJECTS             -->
+<!-- ========================= -->
 
 # 🚀 Featured Projects
 
@@ -85,25 +136,35 @@ I'm a **Computer Science graduate and Full Stack Developer** passionate about bu
 
 <td width="50%">
 
-### 🤖 AI Job Search Assistant
+## 🤖 AI Job Search Assistant
 
-AI-powered career assistant designed to help discover relevant jobs, analyze job descriptions and assist with the application process.
+An AI-powered career assistant concept designed to help users discover relevant jobs, analyze job descriptions and improve their job-search workflow.
+
+**Focus**
+
+- AI-assisted job discovery
+- Job description analysis
+- Resume analysis
+- Suitability evaluation
+- Career assistance
 
 **Technologies**
 
-`AI` `C#` `.NET` `LLM` `PostgreSQL`
+`AI` `LLM` `C#` `.NET` `SQL`
 
 </td>
 
 <td width="50%">
 
-### ✍️ AI Novel Generation System
+## ✍️ AI Novel Generation System
 
-A desktop application for AI-assisted story and novel generation using LLM technology.
+A desktop application for AI-assisted story and novel generation.
+
+The application explores how LLMs can assist writers with developing stories and creative content.
 
 **Technologies**
 
-`C#` `.NET` `WPF` `XAML` `Ollama`
+`C#` `.NET` `WPF` `XAML` `Ollama` `LLM`
 
 </td>
 
@@ -113,21 +174,21 @@ A desktop application for AI-assisted story and novel generation using LLM techn
 
 <td width="50%">
 
-### 🛒 E-Commerce Application
+## 🛒 Mini E-Commerce Application
 
-Full-stack e-commerce application with a React frontend and Spring Boot backend.
+A full-stack e-commerce application developed with a React frontend and Spring Boot backend.
 
 **Technologies**
 
-`Java` `Spring Boot` `React` `SQL`
+`Java` `Spring Boot` `React` `JavaScript` `SQL`
 
 </td>
 
 <td width="50%">
 
-### 🏨 Hotel Management System
+## 🏨 Hotel Management System
 
-Full-stack hotel management application for managing hotel operations and database records.
+A full-stack hotel management application for managing hotel-related operations and data.
 
 **Technologies**
 
@@ -141,9 +202,23 @@ Full-stack hotel management application for managing hotel operations and databa
 
 <td width="50%">
 
-### 📝 Quote of the Day
+## 🏥 Healthcare Management Application
 
-A simple application built using .NET MAUI for displaying and managing daily quotes.
+Worked as part of a development team on a healthcare management application during my internship experience.
+
+Contributed to frontend interfaces, backend APIs and database operations.
+
+**Technologies**
+
+`C#` `ASP.NET Core` `SQL Server`
+
+</td>
+
+<td width="50%">
+
+## 📝 Quote of the Day
+
+A simple quote application developed using .NET MAUI.
 
 **Technologies**
 
@@ -151,23 +226,35 @@ A simple application built using .NET MAUI for displaying and managing daily quo
 
 </td>
 
-<td width="50%">
-
-### 📋 Task Manager
-
-A simple task management application designed to organize and manage daily tasks.
-
-**Technologies**
-
-`C#` `.NET` `SQL`
-
-</td>
-
 </tr>
 
 </table>
 
----
+
+<!-- ========================= -->
+<!--       OTHER PROJECTS       -->
+<!-- ========================= -->
+
+# 📂 Other Projects
+
+<div align="center">
+
+| Project | Technology |
+|---|---|
+| 🏛️ Wedding Hall Management System | C# / .NET |
+| 📋 Task Manager | C# / .NET |
+| 📝 Quote of the Day | .NET MAUI |
+| 🛒 Mini E-Commerce | Java / Spring Boot / React |
+| 🏨 Hotel Management System | C# / ASP.NET / SQL Server |
+| 🤖 AI Novel Generation | C# / WPF / Ollama |
+| 🔎 Anonymous Case Complaint System | DistilBERT / NLP |
+
+</div>
+
+
+<!-- ========================= -->
+<!--       GITHUB STATS         -->
+<!-- ========================= -->
 
 # 📊 GitHub Analytics
 
@@ -181,41 +268,71 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanar
 
 </div>
 
----
+
+<!-- ========================= -->
+<!--        STREAK              -->
+<!-- ========================= -->
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=manikandanar3646&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=manikandanar3646&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+
+<!-- ========================= -->
+<!--     CONTRIBUTION GRAPH    -->
+<!-- ========================= -->
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikandanar3646&theme=tokyo-night&hide_border=true&area=true&custom_title=Manikandan's%20Contribution%20Activity"/>
 
 </div>
 
----
 
-# 🧠 Currently Learning
+<!-- ========================= -->
+<!--       TROPHIES             -->
+<!-- ========================= -->
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manikandanar3646&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"/>
+
+</div>
+
+
+<!-- ========================= -->
+<!--      CURRENT FOCUS         -->
+<!-- ========================= -->
+
+# 🎯 Currently Learning & Improving
+
+<div align="center">
 
 ```text
-.NET / ASP.NET Core
-        ↓
-Backend Architecture
-        ↓
-Spring Boot
-        ↓
-React
-        ↓
-AI / LLM Applications
-        ↓
-Cloud & DevOps
+                    SOFTWARE DEVELOPMENT
+                            │
+             ┌──────────────┴──────────────┐
+             │                             │
+          BACKEND                       FRONTEND
+             │                             │
+        C# / .NET                      React
+        ASP.NET Core                   JavaScript
+        Spring Boot                    HTML / CSS
+             │
+             │
+        ┌────┴────┐
+        │         │
+     DATABASE     AI
+        │         │
+   SQL Server    NLP
+   MySQL         DistilBERT
+                 LLMs
+                 Ollama
