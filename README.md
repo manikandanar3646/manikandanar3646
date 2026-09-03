@@ -518,10 +518,10 @@ Tools and applications around
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME](https://github.com/manikandanar3646/)&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME](https://github.com/manikandanar3646/)&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -532,7 +532,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=[YOUR_USERNAME&](https://github.com/manikandanar3646/)&theme=default&hide_border=true"/>
 
 </div>
 
@@ -543,7 +543,7 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_bord
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&area=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME](https://github.com/manikandanar3646/)&theme=minimal&hide_border=true&area=true"/>
 
 </div>
 
@@ -554,7 +554,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4"/>
+src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME](https://github.com/manikandanar3646/)&theme=flat&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -565,7 +565,7 @@ src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+src="https://raw.githubusercontent.com/[YOUR_USERNAME](https://github.com/manikandanar3646/)/[YOUR_USERNAME](https://github.com/manikandanar3646/)/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
