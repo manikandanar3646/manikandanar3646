@@ -482,7 +482,7 @@ I'm continuously improving my knowledge in:
 ┌─────────────────────────────────────────────┐
 │               FULL STACK DEVELOPMENT        │
 │                                             │
-│        C# / .NET       Java / Spring       │
+│        C# / .NET       Java / Spring        │
 │             │                │              │
 │             └───────┬────────┘              │
 │                     │                       │
@@ -494,9 +494,9 @@ I'm continuously improving my knowledge in:
 │                     │                       │
 │                     +                       │
 │                                             │
-│              AI / NLP / LLM                │
+│              AI / NLP / LLM                 │
 │                                             │
-│        DistilBERT • Llama • Ollama         │
+│        DistilBERT • Llama • Ollama          │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
