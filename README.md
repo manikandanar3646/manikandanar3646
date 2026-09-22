@@ -553,18 +553,6 @@ Tools and applications around
 </div>
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=manikandanar3646&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"/>
-
-</div>
-
----
-
 # 🚀 Future Goals
 
 - 🎯 Build production-level full-stack applications
