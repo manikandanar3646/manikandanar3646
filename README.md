@@ -61,36 +61,35 @@ building practical software applications and exploring AI-powered systems.
 # ⚙️ Frameworks & Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,spring,react" />
-
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react" alt=".NET, Spring, and React" />
 </p>
 
-### .NET Ecosystem
-
+### 🔷 .NET Ecosystem
 - .NET
 - ASP.NET Core
 - ASP.NET Core Web API
 - Entity Framework Core
 - Windows Forms
-- WPF
+- WPF (Windows Presentation Foundation)
 - .NET MAUI
 - XAML
 
-### Java Ecosystem
-
+### ☕ Java Ecosystem
 - Java
 - Spring Boot
 - Spring Web
 - Hibernate
 
-### Frontend
-
+### 🌐 Frontend Development
 - HTML5
 - CSS3
 - JavaScript
 - React.js
-- XAML
+
+### 🛠️ Backend & Runtime
+- Node.js (Basics)
+- RESTful API Development
+- Frontend–Backend Integration
 
 ---
 
